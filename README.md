@@ -1,2 +1,2 @@
 # javacode
-coding done in tarining
+coding done in training
